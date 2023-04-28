@@ -3,7 +3,7 @@ title: "Kindergarten"
 collection: experiences
 file_name: 'SaraFlorenzani.pdf'
 email: 'sara.florenzani@yrdsb.ca'
-description: 'I was a research assistant intern at the [RVL Lab](https://rvl.cs.toronto.edu/#/) supervised by [Florian Shkurti](http://www.cs.toronto.edu/~florian/). We worked on stochastic planning for autonomous surface vessel (ASV) navigation using satelite images. I helped design a software stack that supported communication between ROS, the web front-end visualization, and the Gazebo simulation or real-world.'
+description: In October and November of 2022 I did a 7 week placement in a kindergarten classroom. I created learning centers and supported play based learning. I taught literacy, math, drama, and music. I also helped the class put on a musical performance at an assembly. 
 start: 2022-10-24
 end: 2022-11-18
 ---
