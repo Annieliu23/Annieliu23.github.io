@@ -15,10 +15,14 @@
 <tr style="height:200px;">
   <td style="padding:0px;width:70%;vertical-align:middle;border:0px;border-spacing:0px;font-size: 1.2em;">
     <a href="{{ site.baseurl }}/assets/pdf/{{ post.file_name }}" target="_blank" title="Summative Assessment"><h3>{{post.title}}</h3></a>
-    {% if post.end == "Present" %}
-      <h6 style="color:#7a8288;margin:0;padding:0;">{{post.start | date: "%B %Y"}} - Present</h6>
+    {% if post.end %}
+      {% if post.end == "Present" %}
+        <h6 style="color:#7a8288;margin:0;padding:0;">{{post.start | date: "%B %Y"}} - Present</h6>
+      {% else %}
+        <h6 style="color:#7a8288;margin:0;padding:0;">{{post.start | date: "%B %Y"}} - {{post.end | date: "%B %Y"}}</h6>
+      {% endif %}
     {% else %}
-      <h6 style="color:#7a8288;margin:0;padding:0;">{{post.start | date: "%B %Y"}} - {{post.end | date: "%B %Y"}}</h6>
+      <h6 style="color:#7a8288;margin:0;padding:0;">{{post.start | date: "%B %Y"}}</h6>
     {% endif %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.description | markdownify }}</p>
   </td>
