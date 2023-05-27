@@ -35,19 +35,9 @@ nav_order: 3
 </ol>
 
 <h3> <b>Philosophy of Education</b> </h3>
-&emsp;My teaching philosophy stems from the belief that within the classroom environment teachers learn as much
-from students as students learn from teachers. As an educator, I value maintaining a safe and inclusive learning
-environment to the best of my ability at all times. This is part of the job, and when provided with this students will
-naturally learn from us as teachers and even eachother. I recall a particular scenario that happened during my most
-recent practicum. One behavioural student had a violent meltdown and began throwing chairs and other objects
-around the room. All of the teachers were at a loss for some time and extremely stressed – but all of the students
-seemed to know just to stay out of the way and maintain calm. Although these students were only in kindergarten,
-they seemed to understand what to do. I could have learned a thing or two from these kids in the moment. I
-assumed that they had witnessed a situation like this before with the special education student in our class; and
-learned from the situation. The classroom clearly had become a safe space because students knew to steer away
-from the danger and go somewhere else. Mental health is a crucial part of my philosophy of education as well.
-This ties into my priority of having a safe space within the classroom where students may go during turbulent
-times. Students always maintain the right to pass and student voice is student choice in my classroom.
+&emsp;My teaching philosophy is built around providing a safe and equitable environment where students can thrive. In my classroom multiple different methods of differentiated instruction will be used to support all types of learners. Visual, auditory, tactile, and kinaesthetic learners will be given the tools to succeed so everyone can achieve. Mental health is also a priority in my classroom. Private polls and sticky note suggestion boxes will be used to report any bullying, difficulties, or needs for extra help. Grades and other confidential information will be protected. I enjoy learning from my students as much as they learn from me. In order to create a strong relationship I believe in transparency and admitting to mistakes I make as a teacher. This way honesty is demonstrated and an emphasis is placed on the importance of learning from our mistakes. 
+
+Students are welcome to be themselves in my classroom. We embrace differences and celebrate all cultures and individualities. The classroom is meant to be diverse and inclusive - multiple resources and celebrations will take place honouring the many cultural holidays throughout the year. Students are always encouraged to become the teacher and share parts of themselves with their classmates whether it be on culture or self identity. 
 
 
 <h3> <b>Professional Learning Plan</b> </h3>
